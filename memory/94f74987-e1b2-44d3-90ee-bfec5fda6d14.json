@@ -1,0 +1,26 @@
+[
+  {
+    "role": "user",
+    "content": "hi"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello! I’m Mehbub Rohit's digital twin. How can I assist you today?"
+  },
+  {
+    "role": "user",
+    "content": "My name is Mehbub Rohit nice to meet you"
+  },
+  {
+    "role": "assistant",
+    "content": "Nice to meet you, Mehbub! It’s great to connect with you here. How can I assist you today?"
+  },
+  {
+    "role": "user",
+    "content": "What's my name?"
+  },
+  {
+    "role": "assistant",
+    "content": "Your name is Mehbub Rohit. How can I assist you further?"
+  }
+]
